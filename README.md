@@ -15,7 +15,7 @@
 ### 1. Clone hoặc Tải Dự Án
 
 ```bash
-cd c:\xampp\htdocs\midterm_web-main
+cd c:\xampp\htdocs\midterm_web
 ```
 
 ### 2. Setup Backend
@@ -103,6 +103,12 @@ midterm_web-main/
 │   └── .env.example        # Environment Template
 └── README.md               # Tài liệu này
 ```
+## 🔧 link demo_drive, demo_youtube, web_deploy, reponsity
+
+- **demo_drive**: `https://drive.google.com/file/d/1Dzi438InlsG4pZKkm552KG1e70au07lw/view?usp=drive_link`
+- **demo_youtube**: `https://www.youtube.com/watch?v=Ux17JpaprTo`
+- **web_deploy**: `https://midtermweb-main-production.up.railway.app/auth`
+- **reponsity**: `https://github.com/anhhaotran1706/midterm_web`
 
 ## 🔧 Các Lệnh Hữu Ích
 
