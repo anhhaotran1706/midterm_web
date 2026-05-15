@@ -24,26 +24,6 @@ Dưới đây là danh sách các tài liệu hướng dẫn cho dự án Task M
   - Ví dụ file .env
   - Cảnh báo bảo mật
 
-- **[ACCOUNTS.md](ACCOUNTS.md)** - Quản lý tài khoản
-  - Tài khoản mặc định
-  - Tạo tài khoản mới
-  - Thay đổi mật khẩu
-  - Tài khoản admin/test
-
-## 🔑 Tài Khoản Test
-
-### Admin
-```
-Email: admin@example.com
-Password: password
-```
-
-### Test User
-```
-Email: test@example.com
-Password: test@example.com
-```
-
 ## 📁 Cấu Trúc File
 
 ```

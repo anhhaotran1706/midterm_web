@@ -80,23 +80,10 @@ php artisan serve
 - Start Apache từ XAMPP Control Panel
 - Truy cập: `http://localhost/midterm_web-main/backend/public`
 
-## 👤 Tài Khoản Test/Admin
-
-### Tài khoản Admin
-
-- **Email**: `admin@example.com`
-- **Password**: `password`
-- **Vai trò**: Admin
-- **Tên**: Admin User
-
 ### Tài khoản Test
 
-- **Email**: `test@example.com`
-- **Password**: `password`
-- **Vai trò**: User
-- **Tên**: Test User
-
-**Lưu ý**: Các tài khoản này được tạo tự động khi chạy `php artisan db:seed`. Bạn có thể thay đổi mật khẩu trong `.env.example` hoặc cập nhật `DatabaseSeeder.php`.
+- **Username**: `test`
+- **Password**: `12345678`
 
 ## 📁 Cấu Trúc Thư Mục
 
@@ -130,26 +117,6 @@ php artisan migrate:rollback
 
 # Rollback tất cả và chạy lại
 php artisan migrate:refresh
-
-# Chạy migration kèm seeding
-php artisan migrate:fresh --seed
-```
-
-### Tạo User Mới (qua Tinker)
-
-```bash
-php artisan tinker
-```
-
-Trong Tinker shell:
-
-```php
-App\Models\User::create([
-    'name' => 'Tên Người Dùng',
-    'email' => 'email@example.com',
-    'password' => bcrypt('password'),
-]);
-```
 
 ### API Routes
 

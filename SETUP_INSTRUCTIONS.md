@@ -53,13 +53,9 @@ php artisan serve
 
 Sau khi chạy seeding, bạn có thể đăng nhập với:
 
-### Tài Khoản Admin
-- **Email**: `admin@example.com`
-- **Password**: `password`
-
 ### Tài Khoản Test
-- **Email**: `test@example.com`
-- **Password**: `password`
+- **Username**: `test`
+- **Password**: `12345678`
 
 ## Các Lệnh Hữu Ích
 
@@ -133,4 +129,3 @@ Nếu gặp vấn đề, kiểm tra:
 
 ---
 
-**Chúc bạn thành công!** 🚀
