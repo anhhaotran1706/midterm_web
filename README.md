@@ -108,7 +108,7 @@ midterm_web-main/
 - **demo_drive**: `https://drive.google.com/file/d/1Dzi438InlsG4pZKkm552KG1e70au07lw/view?usp=drive_link`
 - **demo_youtube**: `https://www.youtube.com/watch?v=Ux17JpaprTo`
 - **web_deploy**: `https://midtermweb-main-production.up.railway.app/auth`
-- **reponsity**: `https://github.com/anhhaotran1706/midterm_web`
+- **repository**: `https://github.com/anhhaotran1706/midterm_web`
 
 ## 🔧 Các Lệnh Hữu Ích
 
