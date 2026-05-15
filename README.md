@@ -88,7 +88,7 @@ php artisan serve
 ## 📁 Cấu Trúc Thư Mục
 
 ```
-midterm_web-main/
+midterm_web/
 ├── backend/                 # Laravel Backend
 │   ├── app/
 │   │   ├── Http/           # Controllers, Middleware
