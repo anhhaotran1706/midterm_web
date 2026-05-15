@@ -103,7 +103,7 @@ midterm_web-main/
 │   └── .env.example        # Environment Template
 └── README.md               # Tài liệu này
 ```
-## 🔧 link demo_drive, demo_youtube, web_deploy, reponsity
+## 🔧 link demo_drive, demo_youtube, web_deploy, repository
 
 - **demo_drive**: `https://drive.google.com/file/d/1Dzi438InlsG4pZKkm552KG1e70au07lw/view?usp=drive_link`
 - **demo_youtube**: `https://www.youtube.com/watch?v=Ux17JpaprTo`
