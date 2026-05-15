@@ -76,9 +76,9 @@ php artisan serve
 
 #### Hoặc sử dụng XAMPP
 
-- Đặt dự án trong `C:\xampp\htdocs\midterm_web-main\midterm_web-main\backend`
+- Đặt dự án trong `C:\xampp\htdocs\midterm_web\backend`
 - Start Apache từ XAMPP Control Panel
-- Truy cập: `http://localhost/midterm_web-main/backend/public`
+- Truy cập: `http://localhost/midterm_web/backend/public`
 
 ### Tài khoản Test
 
